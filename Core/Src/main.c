@@ -2,16 +2,14 @@
 /**
   ******************************************************************************
   * @file           : main.c
-  * @brief          : Main program body
+  * @brief          : Programma per VU Meter con striscia LED WS2812
+  * @author         : Matteo Villani
+  * @date           : 20 Novembre 2025
+  * @version        : 1.0
   ******************************************************************************
   * @attention
   *
-  * Copyright (c) 2025 STMicroelectronics.
-  * All rights reserved.
-  *
-  * This software is licensed under terms that can be found in the LICENSE file
-  * in the root directory of this software component.
-  * If no LICENSE file comes with this software, it is provided AS-IS.
+  * Progetto personale sviluppato su STM32.
   *
   ******************************************************************************
   */
