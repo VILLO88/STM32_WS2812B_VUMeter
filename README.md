@@ -35,6 +35,8 @@ A highly responsive, fluid VU Meter powered by an STM32 microcontroller. This pr
 | | PB12 (WS) | WS (Word Select) |
 | **TIM4 CH1** | PB6 | DIN (Data Input) |
 
+### Pinout
+![Pinout Diagram](assets/mxConfig.png)
 
 ## 💻 Software Details
 
