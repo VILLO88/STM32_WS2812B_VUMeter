@@ -37,6 +37,12 @@ A highly responsive, fluid VU Meter powered by an STM32 microcontroller. This pr
 
 ### Pinout
 ![Pinout Diagram](assets/mxConfig.png)
+### CubeMx Configurations
+![clock Diagram](assets/clock.png)
+![timer Diagram](assets/timerSetup.png)
+![timerdma Diagram](assets/timerDma.png)
+![I2SParameters Diagram](assets/I2SParameters.png)
+![I2SDma Diagram](assets/I2SDma.png)
 
 ## 💻 Software Details
 
